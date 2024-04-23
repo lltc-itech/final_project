@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/nI8OMer7)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=14856097)
 # Final Project - Build a Website
 
 Let's use everything we've learned this semester to build a website. I would like to give you as much freedom as possible for this assignment, so I will not restrict the topic of your website, but I will give some suggestions and then some requirements for this project.
