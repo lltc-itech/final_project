@@ -1,3 +1,21 @@
-{
-    "liveServer.settings.port": 5503
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<Meta charset="utf-8"
+<title>redroad </title>
+<link href="style.css" rel="stylesheet">
+</head>
+<style>
+p {
+  text-align:center;
+  color:red;
+} 
+</style>
+</head>
+<body>
+<p>following the redroad is one of my biggest accomplishments</p>
+<p id="para1">Me too!</p>
+<p>And me!</p>                                 
+
+</body>
+</html>
